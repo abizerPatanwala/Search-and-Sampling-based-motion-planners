@@ -22,8 +22,8 @@ as the image file showing the map and the resultant path. To run any of the algo
 ### PRM bridge planner
 ![PRM bridge planner]PRM_Planners/output/bridge.png
 ### PRM gaussian planner
-![PRM bridge planner]PRM_Planners/output/gaussian.png
+![PRM gaussian planner]PRM_Planners/output/gaussian.png
 ### PRM random planner
-![PRM bridge planner]PRM_Planners/output/random.png
+![PRM random planner]PRM_Planners/output/random.png
 ### PRM uniform planner
-![PRM bridge planner]PRM_Planners/output/uniform.png
+![PRM uniform planner]PRM_Planners/output/uniform.png
