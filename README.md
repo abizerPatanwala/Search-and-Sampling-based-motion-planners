@@ -5,8 +5,12 @@ corresponds to object location. Each of the folder contains *main.py* file which
 as the image file showing the map and the resultant path. To run any of the algorithm, download the corresponding folder and run 
 *python3 main.py*. The map can be changed by chaning the values in the .csv file. 
 
-## Resultant path from planners:
+## Resultant path from search based planners:
 ### Dijkstra
 ![Dijsktra](Astar_dijsktra/output/dijsktra.png)
 ### A star
 ![A star](Astar_dijsktra/output/Astar.png)
+### D star static path
+![D_star static](D_star/output/Dstar_static.png)
+### D star dynamic path
+![D_star step 1](D_star/output/Dstar_dyn1.png)
