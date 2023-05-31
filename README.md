@@ -5,5 +5,5 @@ corresponds to object location. Each of the folder contains *main.py* file which
 as the image file showing the map and the resultant path. To run any of the algorithm, download the corresponding folder and run 
 *python3 main.py*. The map can be changed by chaning the values in the .csv file. 
 The output of various planners are shown below:
-### A star
-![A str](/A star and dijsktra/output/Astar.png)
+## A star
+![A star on 2d map](/A star and dijsktra/output/Astar.png)
