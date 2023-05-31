@@ -20,10 +20,10 @@ as the image file showing the map and the resultant path. To run any of the algo
 ### RRT**
 ![RRT star](RRT_RRTstar/output/RRT_star.png)
 ### PRM bridge planner
-![PRM bridge planner]PRM_Planners/output/bridge.png
+![PRM bridge planner](PRM_Planners/output/bridge.png)
 ### PRM gaussian planner
-![PRM gaussian planner]PRM_Planners/output/gaussian.png
+![PRM gaussian planner](PRM_Planners/output/gaussian.png)
 ### PRM random planner
-![PRM random planner]PRM_Planners/output/random.png
+![PRM random planner](PRM_Planners/output/random.png)
 ### PRM uniform planner
-![PRM uniform planner]PRM_Planners/output/uniform.png
+![PRM uniform planner](PRM_Planners/output/uniform.png)
