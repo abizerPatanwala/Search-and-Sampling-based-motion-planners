@@ -8,9 +8,14 @@ as the image file showing the map and the resultant path. To run any of the algo
 ## Resultant path from search based planners:
 ### Dijkstra
 ![Dijsktra](Astar_dijsktra/output/dijsktra.png)
-### A star
+### A*
 ![A star](Astar_dijsktra/output/Astar.png)
-### D star static path
+### D* static path
 ![D_star static](D_star/output/Dstar_static.png)
-### D star dynamic path
+### D* dynamic path
 ![D_star step 1](D_star/output/Dstar_dyn1.png)
+## Resultant path from sampling based planners:
+### RRT*
+![RRT star](RRT_RRTstar/output/RRT.png)
+### RRT**
+![RRT star](RRT_RRTstar/output/RRT_star.png)
