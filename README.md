@@ -7,6 +7,6 @@ as the image file showing the map and the resultant path. To run any of the algo
 
 ## Resultant path from planners:
 ### Dijkstra
-![Dijsktra](Astar_dijsktra/output/dijkstra.png)
+![Dijsktra](Astar_dijsktra/output/dijsktra.png)
 ### A star
 ![A star](Astar_dijsktra/output/Astar.png)
