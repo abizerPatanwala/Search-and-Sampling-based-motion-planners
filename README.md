@@ -6,4 +6,4 @@ as the image file showing the map and the resultant path. To run any of the algo
 *python3 main.py*. The map can be changed by chaning the values in the .csv file. 
 The output of various planners are shown below:
 ## A star
-![A star](/A star and dijsktra/output/Astar.png?raw=true)
+![A star](./A star and dijsktra/output/Astar.png?raw=true)
