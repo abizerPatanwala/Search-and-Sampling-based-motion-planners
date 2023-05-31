@@ -27,3 +27,5 @@ as the image file showing the map and the resultant path. To run any of the algo
 ![PRM random planner](PRM_Planners/output/random.png)
 ### PRM uniform planner
 ![PRM uniform planner](PRM_Planners/output/uniform.png)
+### Informed RRT*
+![Informed RRT*](informed_RRT/output/Infomed_RRT_star.png)
