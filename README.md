@@ -21,9 +21,9 @@ as the image file showing the map and the resultant path. To run any of the algo
 ![RRT star](RRT_RRTstar/output/RRT_star.png)
 ## PRM based planners
 <p float="left">
-  <img src="PRM_Planners/output/bridge.png" width="320" title="a" />
-  <img src="/img2.png" width="320" title="b" /> 
-  <img src="/img3.png" width="320" />
+  <img src="PRM_Planners/output/bridge.png" width="320" title="aadsasddsa" />
+  <img src="PRM_Planners/output/bridge.png" width="320" title="b" /> 
+  <img src="PRM_Planners/output/bridge.png" width="320" />
 </p>
 
 ### PRM bridge planner
