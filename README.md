@@ -22,11 +22,10 @@ as the image file showing the map and the resultant path. To run any of the algo
 ## PRM based planners
 <p float="left">
   <img src="PRM_Planners/output/bridge.png" width="320" />
-  ## PRM based planners
   <img src="PRM_Planners/output/gaussian.png" width="320" /> 
 </p>
 ### PRM bridge planner
-![PRM bridge planner](PRM_Planners/output/bridge.png "PRM bridge planner" =30%x) ![PRM gaussian planner](PRM_Planners/output/gaussian.png "PRM gaussian planner" =30%x)
+![PRM bridge planner](PRM_Planners/output/bridge.png "PRM bridge planner" =10%x) ![PRM gaussian planner](PRM_Planners/output/gaussian.png "PRM gaussian planner" =10%x)
 ### PRM gaussian planner
 ![PRM gaussian planner](PRM_Planners/output/gaussian.png)
 ### PRM random planner
