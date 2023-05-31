@@ -15,9 +15,9 @@ as the image file showing the map and the resultant path. To run any of the algo
 ### D* dynamic path
 ![D_star step 1](D_star/output/Dstar_dyn1.png)
 ## Resultant path from sampling based planners:
-### RRT*
+### RRT
 ![RRT star](RRT_RRTstar/output/RRT.png)
-### RRT**
+### RRT*
 ![RRT star](RRT_RRTstar/output/RRT_star.png)
 ### PRM bridge planner
 ![PRM bridge planner](PRM_Planners/output/bridge.png)
