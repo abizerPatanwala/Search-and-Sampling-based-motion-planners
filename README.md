@@ -19,6 +19,11 @@ as the image file showing the map and the resultant path. To run any of the algo
 ![RRT star](RRT_RRTstar/output/RRT.png)
 ### RRT*
 ![RRT star](RRT_RRTstar/output/RRT_star.png)
+<p float="left">
+  <img src="PRM_Planners/output/bridge.png" width="100" />
+  <img src="PRM_Planners/output/gaussian.png" width="100" /> 
+
+</p>
 ### PRM bridge planner
 ![PRM bridge planner](PRM_Planners/output/bridge.png)
 ### PRM gaussian planner
